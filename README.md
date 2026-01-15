@@ -45,7 +45,7 @@ Game-over state keeps the window open for 3 seconds to display final score
 space-survival/
 
 │
-├── main.py
+├── asteroids.py
 
 ├── spaceship.png
 
